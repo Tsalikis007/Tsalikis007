@@ -52,5 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tsalikis007/Tsalikis007/.github/workflows/snake.yml/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.yml/snake.svg" alt="Snake animation" />
 
